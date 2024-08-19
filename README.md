@@ -1,4 +1,4 @@
-# Password Generator
+# Python-based Password Generator
 
 ## Overview
 
@@ -8,7 +8,7 @@ A simple Python tool to generate strong, random passwords. Customize the passwor
 
 - **Customizable Length**: Specify password length.
 - **Randomized Characters**: Includes letters, digits, and special symbols.
-- **Easy-to-Use**: Command-line interface for quick generation.
+- **Easy-to-Use**: Simple graphical interface for quick generation.
 
 ## Installation
 
