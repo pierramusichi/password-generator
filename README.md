@@ -24,6 +24,19 @@ python password_generator.py
 
 Run the script and enter the desired password length to generate a password.
 
+## Skills Developed
+
+### 1. Python Programming
+Gained a deeper understanding of Python’s syntax, including control structures, functions, and libraries.
+Utilized libraries such as random for generating random characters and string for character sets, enhancing knowledge of Python’s standard library.
+
+### 2. Algorithm Design
+Randomization: Implemented algorithms to create secure and unpredictable passwords.
+Efficiency: Developed methods to balance randomness with computational efficiency.
+
+### 3. Security Awareness:
+Integrated security principles such as using a strong randomization approach to ensure the passwords are robust and difficult to guess.
+
 ## License
 
 MIT License
